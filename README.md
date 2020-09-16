@@ -5,3 +5,4 @@
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xezard&layout=compact)](https://github.com/xezard)
+<img src="https://github.com/xezard/xezard/blob/master/images/stats.svg" alt="Wakatime Xezard stats"/>
