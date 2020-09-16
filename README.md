@@ -9,10 +9,10 @@
   <a href="https://github.com/xezard">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xezard&amp;layout=compact" alt="Xezard profile top programming languages" />
   </a> 
-  
-  <br/>
-  
+</p>
+
+<p align="center" style="padding-top: 5px;">
   <a href="https://wakatime.com/@Xezard"> 
-    <img src="https://raw.githubusercontent.com/Xezard/xezard/51f2a3b0a67a4594a69f643d1e9bdce7b5f068c3/images/stat.svg" alt="Wakatime Xezard stats" />
+    <img style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);" src="https://raw.githubusercontent.com/Xezard/xezard/51f2a3b0a67a4594a69f643d1e9bdce7b5f068c3/images/stat.svg" alt="Wakatime Xezard stats" />
   </a>
 </p>
