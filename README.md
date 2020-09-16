@@ -6,4 +6,4 @@
 <p align="center"><a href="https://vk.com/xezard" target="blank"><img src="https://cdn.worldvectorlogo.com/logos/vkcom.svg" alt="xezard" width="50" height="50" align="center" /></a></p>
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xezard&layout=compact)](https://github.com/xezard)
-<img src="https://github.com/xezard/xezard/blob/master/images/stats.svg" alt="Wakatime Xezard stats"/>
+<img src="https://github.com/Xezard/xezard/blob/master/images/stat.png" alt="Wakatime Xezard stats"/>
