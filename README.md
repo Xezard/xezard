@@ -5,6 +5,8 @@
 <h3 align="center">You can follow me with social media:</h3>
 <p align="center"><a href="https://vk.com/xezard" target="blank"><img src="https://cdn.worldvectorlogo.com/logos/vkcom.svg" alt="xezard" width="50" height="50" align="center" /></a></p>
 
+<hr/>
+
 <p align="center">
   <a href="https://github.com/xezard">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xezard&amp;layout=compact" alt="Xezard profile top programming languages" />
