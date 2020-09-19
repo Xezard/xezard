@@ -13,8 +13,8 @@
   </a>
 </p>
 
-<p align="center" style="border: 1px solid gainsboro; box-shadow: 0 1px 3px 0 rgba(0,0,0,0.2);">
+<p align="center">
   <a href="https://wakatime.com/@Xezard"> 
-    <img src="https://raw.githubusercontent.com/Xezard/xezard/51f2a3b0a67a4594a69f643d1e9bdce7b5f068c3/images/stat.svg" alt="Wakatime Xezard stats" /> 
+    <img src="https://github.com/xezard/xezard/blob/master/images/stat.svg" alt="Wakatime Xezard stats" /> 
   </a>
 </p>
