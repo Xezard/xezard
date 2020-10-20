@@ -13,8 +13,4 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://wakatime.com/@Xezard"> 
-    <img src="https://github.com/xezard/xezard/blob/master/images/stat.svg" alt="Wakatime Xezard stats" /> 
-  </a>
-</p>
+[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Xezard)](https://github.com/anuraghazra/github-readme-stats)
