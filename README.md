@@ -13,4 +13,8 @@
   </a>
 </p>
 
-[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Xezard)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/xezard"> 
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Xezard" alt="Xezard profile wakatime stats" /> 
+  </a>
+</p>
