@@ -31,8 +31,19 @@
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="50" height="50" /> 
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="50" height="50" /> 
   <img src="https://www.svgrepo.com/show/303231/docker-logo.svg" alt="docker" width="50" height="50" /> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50" /> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" /> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50" /> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50" /> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity3d" width="50" height="50" /> <img src="https://devicon.dev/devicon.git/icons/intellij/intellij-original.svg" alt="idea" width="50" height="50" /> <img src="https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="50" height="50" /> <img src="https://devicon.dev/devicon.git/icons/phpstorm/phpstorm-original-wordmark.svg" alt="phpstorm" width="50" height="50" /> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="50" height="50" /> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="50" height="50" /><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="50" height="50" /><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50" /> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" /></p>
+  <img src="https://www.svgrepo.com/show/303554/nginx-logo.svg" alt="nginx" width="50" height="50" /> 
+  <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" width="50" height="50" /> 
+  <img src="https://www.svgrepo.com/show/303301/postgresql-logo.svg" alt="postgresql" width="50" height="50" /> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50" /> 
+  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity3d" width="50" height="50" /> 
+  <img src="https://devicon.dev/devicon.git/icons/intellij/intellij-original.svg" alt="idea" width="50" height="50" /> 
+  <img src="https://www.svgrepo.com/show/306931/visualstudio.svg" alt="visualstudio" width="50" height="50" /> 
+  <img src="https://devicon.dev/devicon.git/icons/phpstorm/phpstorm-original-wordmark.svg" alt="phpstorm" width="50" height="50" /> 
+  <img src="https://www.svgrepo.com/show/303177/photoshop-cc-logo.svg" alt="photoshop" width="50" height="50" /> 
+  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="50" height="50" />
+  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="50" height="50" />
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50" /> 
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" /></p>
 
 <h3 align="center">Contact me:</h3>
 <p align="center">
