@@ -9,9 +9,9 @@
   <img src="https://www.svgrepo.com/show/28684/android.svg" alt="android" width="50" height="50" /> 
   <img src="https://design.jboss.org/netty/logo/final/netty_icon_256px.svg" alt="netty" width="50" height="50" /> 
   <img src="https://i.ya-webdesign.com/images/spring-logo-png-2.png" alt="spring-framework" width="70" height="50" />
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50" /> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50" /> 
-  <img src="https://www.svgrepo.com/show/306618/python.svg" alt="python" width="50" height="50" /> 
+  <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="cplusplus" width="50" height="50" /> 
+  <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="csharp" width="50" height="50" /> 
+  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" width="50" height="50" /> 
   <img src="https://www.svgrepo.com/show/303206/javascript-logo.svg" alt="javascript" width="50" height="50" /> 
   <img src="https://www.svgrepo.com/show/303658/nodejs-1-logo.svg" alt="nodejs" width="50" height="50" /> 
   <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="50" height="50" /> 
@@ -23,25 +23,25 @@
   <img src="https://cdn.iconscout.com/icon/free/png-256/html-2752158-2284975.png" width="50" height="50" />
   <img src="https://www.svgrepo.com/show/303293/bootstrap-4-logo.svg" alt="bootstrap" width="50" height="50" /> 
   <img src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png" width="50" height="50" />
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="50" height="50" /> 
+  <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="sass" width="50" height="50" /> 
   <img src="https://www.svgrepo.com/show/303293/bootstrap-4-logo.svg" alt="webpack" width="50" height="50" /> 
   <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="50" height="50" /> 
-  <img src="https://www.svgrepo.com/show/305938/debian.svg" alt="debian" width="50" height="50" /> 
-  <img src="https://www.svgrepo.com/svg/306899/ubuntu" alt="ubuntu" width="50" height="50" /> 
+  <img src="https://cdn.worldvectorlogo.com/logos/debian-2.svg" alt="debian" width="50" height="50" /> 
+  <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" alt="ubuntu" width="50" height="50" /> 
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="50" height="50" /> 
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="50" height="50" /> 
   <img src="https://www.svgrepo.com/show/303231/docker-logo.svg" alt="docker" width="50" height="50" /> 
   <img src="https://www.svgrepo.com/show/303554/nginx-logo.svg" alt="nginx" width="50" height="50" /> 
   <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" width="50" height="50" /> 
   <img src="https://www.svgrepo.com/show/303301/postgresql-logo.svg" alt="postgresql" width="50" height="50" /> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50" /> 
+  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb" width="50" height="50" /> 
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity3d" width="50" height="50" /> 
-  <img src="https://devicon.dev/devicon.git/icons/intellij/intellij-original.svg" alt="idea" width="50" height="50" /> 
-  <img src="https://www.svgrepo.com/show/306931/visualstudio.svg" alt="visualstudio" width="50" height="50" /> 
-  <img src="https://devicon.dev/devicon.git/icons/phpstorm/phpstorm-original-wordmark.svg" alt="phpstorm" width="50" height="50" /> 
+  <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="idea" width="50" height="50" /> 
+  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="visualstudio" width="50" height="50" /> 
+  <img src="https://cdn.worldvectorlogo.com/logos/phpstorm-1.svg" alt="phpstorm" width="50" height="50" /> 
   <img src="https://www.svgrepo.com/show/303177/photoshop-cc-logo.svg" alt="photoshop" width="50" height="50" /> 
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="50" height="50" />
-  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="50" height="50" />
+  <img src="https://cdn.worldvectorlogo.com/logos/blender-2.svg" alt="blender" width="50" height="50" />
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50" /> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" /></p>
 
