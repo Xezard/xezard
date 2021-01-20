@@ -24,7 +24,7 @@
   <img src="https://www.svgrepo.com/show/303293/bootstrap-4-logo.svg" alt="bootstrap" width="50" height="50" /> 
   <img src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png" width="50" height="50" />
   <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="sass" width="50" height="50" /> 
-  <img src="https://www.svgrepo.com/show/303293/bootstrap-4-logo.svg" alt="webpack" width="50" height="50" /> 
+  <img src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg" alt="webpack" width="50" height="50" /> 
   <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="50" height="50" /> 
   <img src="https://cdn.worldvectorlogo.com/logos/debian-2.svg" alt="debian" width="50" height="50" /> 
   <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" alt="ubuntu" width="50" height="50" /> 
