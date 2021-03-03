@@ -49,6 +49,7 @@
 <p align="center">
   <a href="https://vk.com/xezard" target="blank"><img src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-vk-4661619_122495.png" alt="vk" width="50" height="50" align="center"/></a>
   <a href="https://t.me/xezard" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="telegram" width="50" height="50" align="center"/></a>
+    <a href="https://discord.com/invite/JZ9uZ5aXwf" target="blank"><img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" alt="discord" width="50" height="50" align="center"/></a>
 </p>
 
 <hr/>
