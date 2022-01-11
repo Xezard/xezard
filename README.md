@@ -1,5 +1,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=xezard" alt="xezard profile views"/>
+  <a href="https://wakatime.com/@d6a049ff-6a4a-43a6-84ca-2a7d63329349">
+    <img src="https://wakatime.com/badge/user/d6a049ff-6a4a-43a6-84ca-2a7d63329349.svg" alt="Total time coded since Dec 8 2019" />
+  </a>
 </p>
 
 <h2 align="center">My knowlage base:</h2>
