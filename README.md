@@ -25,6 +25,7 @@
   <img src="https://www.svgrepo.com/show/303379/laravel-logo.svg" alt="laravel" width="50" height="50" /> 
   <img src="https://cdn.iconscout.com/icon/free/png-256/html-2752158-2284975.png" width="50" height="50" />
   <img src="https://www.svgrepo.com/show/303293/bootstrap-4-logo.svg" alt="bootstrap" width="50" height="50" /> 
+  <img src="https://www.svgrepo.com/show/374118/tailwind.svg" although=tailwindcss" width=50" height="50" />
   <img src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png" width="50" height="50" />
   <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="sass" width="50" height="50" /> 
   <img src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg" alt="webpack" width="50" height="50" /> 
