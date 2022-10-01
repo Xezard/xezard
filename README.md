@@ -34,6 +34,7 @@
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="50" height="50" /> 
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="50" height="50" /> 
   <img src="https://www.svgrepo.com/show/303231/docker-logo.svg" alt="docker" width="50" height="50" /> 
+  <img src="https://www.svgrepo.com/show/376356/aws.svg" alt="amazon" width="50" height="50" />
   <img src="https://www.svgrepo.com/show/303554/nginx-logo.svg" alt="nginx" width="50" height="50" /> 
   <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" width="50" height="50" /> 
   <img src="https://www.svgrepo.com/show/303301/postgresql-logo.svg" alt="postgresql" width="50" height="50" /> 
