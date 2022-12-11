@@ -7,6 +7,7 @@
 
 <h2 align="center">My knowlage base:</h2>
 <p align="center">
+  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="50" height="50" />
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="50" height="50" /> 
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" alt="maven" width="50" height="50" /> 
   <img src="https://www.svgrepo.com/show/28684/android.svg" alt="android" width="50" height="50" /> 
