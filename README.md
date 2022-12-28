@@ -5,7 +5,7 @@
   </a>
 </p>
 
-<h2 align="center">My knowlage base:</h2>
+<h2 align="center">My knowledge base:</h2>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="50" height="50" />
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="50" height="50" /> 
