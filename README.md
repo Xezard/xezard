@@ -12,7 +12,7 @@
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" alt="maven" width="50" height="50" /> 
   <img src="https://www.svgrepo.com/show/28684/android.svg" alt="android" width="50" height="50" /> 
   <img src="https://design.jboss.org/netty/logo/final/netty_icon_256px.svg" alt="netty" width="50" height="50" /> 
-  <img src="https://i.ya-webdesign.com/images/spring-logo-png-2.png" alt="spring-framework" width="70" height="50" />
+  <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="spring-framework" width="70" height="50" />
   <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="cplusplus" width="50" height="50" /> 
   <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="csharp" width="50" height="50" /> 
   <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" width="50" height="50" /> 
