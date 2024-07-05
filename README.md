@@ -41,6 +41,7 @@
   <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" width="50" height="50" /> 
   <img src="https://www.svgrepo.com/show/303301/postgresql-logo.svg" alt="postgresql" width="50" height="50" /> 
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb" width="50" height="50" /> 
+  <img src="https://www.vectorlogo.zone/logos/jaegertracingio/jaegertracingio-icon.svg" alt="mongodb" width="50" height="50" /> 
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity3d" width="50" height="50" /> 
   <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="idea" width="50" height="50" /> 
   <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="visualstudio" width="50" height="50" /> 
@@ -54,7 +55,7 @@
 <h3 align="center">Contact me:</h3>
 <p align="center">
   <a href="https://t.me/xezard" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="telegram" width="50" height="50" align="center"/></a>
-    <a href="https://discord.com/invite/JZ9uZ5aXwf" target="blank"><img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" alt="discord" width="50" height="50" align="center"/></a>
+    <a href="https://discord.com/invite/JZ9uZ5aXwf" target="blank"><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="discord" width="50" height="50" align="center"/></a>
 </p>
 
 <hr/>
