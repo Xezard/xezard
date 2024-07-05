@@ -34,7 +34,6 @@
   <img src="https://cdn.worldvectorlogo.com/logos/debian-2.svg" alt="debian" width="50" height="50" /> 
   <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" alt="ubuntu" width="50" height="50" /> 
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="50" height="50" /> 
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="50" height="50" /> 
   <img src="https://www.svgrepo.com/show/303231/docker-logo.svg" alt="docker" width="50" height="50" /> 
   <img src="https://www.svgrepo.com/show/376356/aws.svg" alt="amazon" width="50" height="50" />
   <img src="https://www.svgrepo.com/show/303554/nginx-logo.svg" alt="nginx" width="50" height="50" /> 
@@ -43,6 +42,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb" width="50" height="50" /> 
   <img src="https://www.svgrepo.com/show/353929/jenkins.svg" alt="jenkins" width="50" height="50" /> 
   <img src="https://www.svgrepo.com/show/354272/redis.svg" alt="redis" width="50" height="50" /> 
+  <img src="https://www.svgrepo.com/show/448470/helm.svg" alt="helm" width="50" height="50" /> 
   <img src="https://www.vectorlogo.zone/logos/jaegertracingio/jaegertracingio-icon.svg" alt="jaeger" width="50" height="50" /> 
   <img src="https://www.svgrepo.com/show/353951/kafka-icon.svg" alt="kafka" width="50" height="50" /> 
   <img src="https://www.svgrepo.com/show/353805/google-cloud.svg" alt="google cloud" width="50" height="50" /> 
