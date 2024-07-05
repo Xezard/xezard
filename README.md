@@ -44,6 +44,8 @@
   <img src="https://www.svgrepo.com/show/353929/jenkins.svg" alt="jenkins" width="50" height="50" /> 
   <img src="https://www.svgrepo.com/show/354272/redis.svg" alt="redis" width="50" height="50" /> 
   <img src="https://www.vectorlogo.zone/logos/jaegertracingio/jaegertracingio-icon.svg" alt="jaeger" width="50" height="50" /> 
+  <img src="https://www.svgrepo.com/show/353951/kafka-icon.svg" alt="kafka" width="50" height="50" /> 
+  <img src="https://www.svgrepo.com/show/353805/google-cloud.svg" alt="google cloud" width="50" height="50" /> 
   <img src="https://www.svgrepo.com/show/448228/grafana.svg" alt="grafana" width="50" height="50" /> 
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity3d" width="50" height="50" /> 
   <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="idea" width="50" height="50" /> 
