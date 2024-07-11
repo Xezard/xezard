@@ -48,6 +48,7 @@
   <img src="https://www.svgrepo.com/show/353961/kibana.svg" alt="kibana" width="40" height="40" />
   <img src="https://www.svgrepo.com/show/353805/google-cloud.svg" alt="google cloud" width="40" height="40" /> 
   <img src="https://www.svgrepo.com/show/448228/grafana.svg" alt="grafana" width="40" height="40" /> 
+  <img src="https://www.svgrepo.com/show/331455/keycloak.svg" alt="keycloak" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity3d" width="40" height="40" /> 
   <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="idea" width="40" height="40" /> 
   <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="visualstudio" width="40" height="40" /> 
