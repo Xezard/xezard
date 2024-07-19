@@ -42,6 +42,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb" width="40" height="40" /> 
   <img src="https://www.svgrepo.com/show/353929/jenkins.svg" alt="jenkins" width="40" height="40" /> 
   <img src="https://www.svgrepo.com/show/354272/redis.svg" alt="redis" width="40" height="40" /> 
+  <img src="https://camunda.com/wp-content/uploads/camunda/blog-images/4-icon.png" alt="camunda" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/448470/helm.svg" alt="helm" width="40" height="40" /> 
   <img src="https://www.vectorlogo.zone/logos/jaegertracingio/jaegertracingio-icon.svg" alt="jaeger" width="40" height="40" /> 
   <img src="https://www.svgrepo.com/show/353951/kafka-icon.svg" alt="kafka" width="40" height="40" /> 
